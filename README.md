@@ -3,12 +3,15 @@
 membuat layout web dengan menggunakan Twitter Bootsrap.
 ## langkah 1
 Buka web Bootstrap https://getbootstrap.com/ lalu download file bootstrap.
-![gambar 1](screenshot/Screenshot%20(1).png)
+![Screenshot (1)](https://user-images.githubusercontent.com/101470912/164892402-2db87b0b-cb3d-4284-abfd-b16a3b3afa27.png)
+
 
 ## langkah 2
 Jika sudah di download, masukkan file tersebut kedalam file lab6_css_framework
-![gambar 2](screenshot/Screenshot%20(4).png)
+![Screenshot (4)](https://user-images.githubusercontent.com/101470912/164892418-0a6fa204-14a1-4e5f-8d8d-becf5d65298d.png)
+
 Disini kita akan mendapatkan 2 file, yaitu : css dan js.
+
 
 ## langkah 3
 Buat File html didalam dile lab6_css_framework dan masukan kode bootstrapnya, kode tersebut bisa kita ambil dari web bootstrap.
