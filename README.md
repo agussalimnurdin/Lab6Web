@@ -417,7 +417,7 @@ dan dibawah ini adalah kode nya :
 
 ## Selesai 
 
-## TERIMA KASIH BANYAK
+## TERIMA KASIH BANYAK.
 ![gambar 3](screenshot/2994367789.png)
 
 
