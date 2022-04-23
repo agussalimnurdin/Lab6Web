@@ -46,6 +46,10 @@ Berikut Kodenya :
   </body>
 </html>
 
+Seperti dibawah ini
+![Screenshot (20)](https://user-images.githubusercontent.com/101470912/164892885-5db45355-4eb4-4fb5-9b4f-ba594762f6ec.png)
+
+
 ## langkah 4
 setelah itu buatlah layout sederhana seperti yang pernah kita buat di praktikum sebelumnya.
 
