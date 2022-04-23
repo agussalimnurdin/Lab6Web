@@ -412,6 +412,7 @@ dan dibawah ini adalah kode nya :
    float: right;
   } 
 
+
 ## Dan dibawah ini adalah hasil dari Kode Bootstrap di atas :
 ![gambar 3](screenshot/Screenshot%20(6).png)
 
